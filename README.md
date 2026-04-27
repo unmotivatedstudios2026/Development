@@ -45,7 +45,7 @@ The entire site is a single file — `index.html`. To update content:
 
 ## 📬 Contact
 
-**Email:** contact@unmotivatedstudios2026@gmail.com
+**Email:** contact@unmotivatedstudios.com
 
 ---
 
